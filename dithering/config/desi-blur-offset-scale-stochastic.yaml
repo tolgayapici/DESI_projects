@@ -153,8 +153,8 @@ instrument:
         # Read random achromatic centroid offsets from a FITS file.
         # Uncomment any one of these lines to select a different random set.
         # No random offsets are applied if all lines are commented out.
-        #random: throughput/DESI-0347_random_offset_1.fits
-        random: throughput/DESI-0347_random_offset_2.fits
+        random: throughput/DESI-0347_random_offset_1.fits
+        #random: throughput/DESI-0347_random_offset_2.fits
         #random: throughput/DESI-0347_random_offset_3.fits
     cameras:
         b:
